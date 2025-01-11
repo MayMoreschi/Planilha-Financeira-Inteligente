@@ -4,6 +4,8 @@
 Projeto com o objetivo de gerar uma planilha financeira inteligente com as facilidades das ferramentas Microsoft.
 Seguem todos os prompts abaixo.
 
+<a href="[(https://github.com/MayMoreschi/Planilha-Financeira-Inteligente/blob/main/spreadsheet.xlsx)]" title="View PDF now"> 📕Clique aqui para ver o Arquivo</a>
+
 # Sobre a Planilha
 - A planilha foi projetada para facilitar o controle financeiro pessoal ou familiar, utilizando recursos avançados do Excel. Ela permite:
 - Registro de entradas e saídas financeiras: controle detalhado de receitas e despesas diretamente na aba "Data".
