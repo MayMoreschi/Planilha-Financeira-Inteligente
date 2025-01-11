@@ -9,8 +9,6 @@ Seguem todos os prompts abaixo.
 - Registro de entradas e saídas financeiras: controle detalhado de receitas e despesas diretamente na aba "Data".
 - Cálculo do dinheiro economizado: análise automática do saldo disponível.
 - Dashboard interativo: exibe gráficos e tabelas dinâmicas gerados a partir dos dados inseridos, permitindo uma visão clara e detalhada das finanças.
-
-<a href="https://github.com/MayMoreschi/prompts-recipe-to-create-a-ebook/blob/main/Ebook%20-%20Sete%20Funcoes%20Arquivisticas.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
   
 # Recursos
 - Tabelas dinâmicas: organizam os dados automaticamente para facilitar a análise.
