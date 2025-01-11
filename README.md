@@ -1,10 +1,18 @@
+<p align="center">
+<img 
+    src="./cover.png"
+    width="400"  
+/>
+</p>
+
+
 # Planilha de Gestão Financeira
  > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso Bootcamp Caixa na plataforma da [DIO](https://dio.me)
 
 Projeto com o objetivo de gerar uma planilha financeira inteligente com as facilidades das ferramentas Microsoft.
 Seguem todos os prompts abaixo.
 
-<a href="[(https://github.com/MayMoreschi/Planilha-Financeira-Inteligente/blob/main/spreadsheet.xlsx)]" title="View PDF now"> 📕Clique aqui para ver o Arquivo</a>
+<a href="https://github.com/MayMoreschi/Planilha-Financeira-Inteligente/blob/main/spreadsheet.xlsx" title="View PDF now"> 📕Clique AQUI para baixar o arquivo</a>
 
 # Sobre a Planilha
 - A planilha foi projetada para facilitar o controle financeiro pessoal ou familiar, utilizando recursos avançados do Excel. Ela permite:
