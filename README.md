@@ -1,7 +1,7 @@
 <p align="center">
 <img 
     src="./dashboard.png"
-    width="400"  
+    width="800"  
 />
 </p>
 
