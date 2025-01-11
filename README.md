@@ -1,11 +1,16 @@
 # Planilha de Gestão Financeira
-Este repositório contém uma planilha de gestão financeira, desenvolvida no Microsoft Excel como parte do projeto final do Bootcamp CAIXA - IA Generativa com Microsoft Copilot, ministrado pela DIO.
+ > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso Bootcamp Caixa na plataforma da [DIO](https://dio.me)
+
+Projeto com o objetivo de gerar uma planilha financeira inteligente com as facilidades das ferramentas Microsoft.
+Seguem todos os prompts abaixo.
 
 # Sobre a Planilha
 - A planilha foi projetada para facilitar o controle financeiro pessoal ou familiar, utilizando recursos avançados do Excel. Ela permite:
 - Registro de entradas e saídas financeiras: controle detalhado de receitas e despesas diretamente na aba "Data".
 - Cálculo do dinheiro economizado: análise automática do saldo disponível.
 - Dashboard interativo: exibe gráficos e tabelas dinâmicas gerados a partir dos dados inseridos, permitindo uma visão clara e detalhada das finanças.
+
+<a href="https://github.com/MayMoreschi/prompts-recipe-to-create-a-ebook/blob/main/Ebook%20-%20Sete%20Funcoes%20Arquivisticas.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
   
 # Recursos
 - Tabelas dinâmicas: organizam os dados automaticamente para facilitar a análise.
@@ -18,3 +23,19 @@ Este repositório contém uma planilha de gestão financeira, desenvolvida no Mi
 2. Abra o arquivo no Microsoft Excel.
 3. Preencha a aba "Data" com as informações de entradas e saídas financeiras.
 4. Acesse o Dashboard para visualizar gráficos, tabelas dinâmicas e análises automáticas de seus dados.
+
+## 👨‍💻 Expert
+
+<p>
+    <p>&nbsp&nbsp&nbspMayara Moreschi<br>
+    &nbsp&nbsp&nbsp
+    <a href="https://github.com/MayMoreschi">
+    GitHub</a>&nbsp;|&nbsp;
+    <a href="www.linkedin.com/in/
+
+<br/><br/>
+<p>
+
+---
+
+⌨️ com 💜 por [Mayara Moreschi](https://github.com/MayMoreschi)
